@@ -19,7 +19,7 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in advanced AI technologies, including
+              I’m proficient in advanced AI technologies, including AI frameworks and tools such as
               <i>
                 <b className="purple">
                   {" "}
