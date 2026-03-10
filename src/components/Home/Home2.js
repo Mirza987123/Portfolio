@@ -19,7 +19,7 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in
+              I’m proficient in AI technologies, including
               <i>
                 <b className="purple">
                   {" "}
