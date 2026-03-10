@@ -19,7 +19,7 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in advanced AI technologies, including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java.
+              I’m proficient in advanced AI technologies, including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java, showcasing my expertise in AI.
               <i>
                 <b className="purple">
                   {" "}
