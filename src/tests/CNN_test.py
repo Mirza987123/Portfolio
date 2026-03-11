@@ -7,7 +7,7 @@ import tensorflow as tf
 # Define a sequential model that stacks layers to create a convolutional neural network (CNN).
 model = tf.keras.models.Sequential([
     # First convolutional layer with ReLU activation
-# This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function.
+# This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function. It helps in extracting features from the input images.
     tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
     # Max pooling layer
 # This layer reduces the spatial dimensions of the output from the previous layer by taking the maximum value over a 2x2 window.
