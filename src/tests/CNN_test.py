@@ -26,4 +26,5 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 model.fit(x_train, y_train, epochs=5)
 
 # Evaluate the model
+# Assessing the model's performance on the test dataset.
 model.evaluate(x_test, y_test)
