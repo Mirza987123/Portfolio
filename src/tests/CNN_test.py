@@ -4,6 +4,7 @@ import tensorflow as tf
 
 # Define the CNN model
 # This model consists of several layers including convolutional, pooling, flattening, and dense layers.
+# Define a sequential model that stacks layers to create a convolutional neural network (CNN).
 model = tf.keras.models.Sequential([
     # First convolutional layer with ReLU activation
     tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
