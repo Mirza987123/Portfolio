@@ -19,7 +19,7 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in advanced AI technologies, including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java, demonstrating my commitment to innovative AI-driven solutions., showcasing my dedication to innovative AI-driven solutions.
+              I’m proficient in advanced AI technologies, including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java, showcasing my dedication to innovative AI-driven solutions., demonstrating my commitment to innovative AI-driven solutions., showcasing my dedication to innovative AI-driven solutions.
               <i>
                 <b className="purple">
                   {" "}
