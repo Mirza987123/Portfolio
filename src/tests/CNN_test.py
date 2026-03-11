@@ -18,6 +18,7 @@ model = tf.keras.models.Sequential([
 ])
 
 # Compile the model
+# Using Adam optimizer and sparse categorical crossentropy loss for multi-class classification.
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # Train the model
