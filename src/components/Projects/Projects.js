@@ -59,7 +59,7 @@ Here are a few projects I've worked on recently, showcasing my expertise in AI t
               imgPath={leaf}
               isBlog={false}
               title="Plant AI"
-The model successfully detects diseased and healthy leaves of 14 unique plants, demonstrating the effectiveness of AI in agricultural technology.
+The model successfully detects diseased and healthy leaves of 14 unique plants, showcasing the effectiveness of AI in agricultural technology.
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
