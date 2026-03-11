@@ -17,6 +17,7 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.MaxPooling2D(pool_size=(2, 2)),
     # Flatten the output
 # This layer converts the 2D matrix output from the previous layer into a 1D vector to feed into the dense layer. It prepares the data for the fully connected layer.
+# Flatten the output
     tf.keras.layers.Flatten(),
     # Fully connected layer
 # This layer connects every neuron in the previous layer to every neuron in this layer, allowing for complex decision making.
