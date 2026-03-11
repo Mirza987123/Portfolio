@@ -11,10 +11,10 @@ import tensorflow as tf
 # This model will be used to process image data and learn features.
 model = tf.keras.models.Sequential([
     # First convolutional layer with ReLU activation
-# This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function. It helps in extracting features from the input images. # This is the first convolutional layer.
+# Applies 32 filters of size 3x3 to the input image, using ReLU as the activation function to extract features.
 # This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function. It helps in extracting features from the input images. # This is the first convolutional layer.
 # First convolutional layer with ReLU activation
-# This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function. It helps in extracting features from the input images. # This is the first convolutional layer.
+# Applies 32 filters of size 3x3 to the input image, using ReLU as the activation function to extract features.
     tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
     # Max pooling layer
 # This layer reduces the spatial dimensions of the output from the previous layer by taking the maximum value over a 2x2 window. This helps in down-sampling the feature maps. # This is the max pooling layer.
