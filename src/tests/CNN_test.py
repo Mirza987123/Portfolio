@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 
 # Define the CNN model
-# This model consists of several layers including convolutional, pooling, flattening, and dense layers.
+# This model consists of several layers including convolutional, pooling, flattening, and dense layers. This architecture is commonly used for image classification tasks.
 # Define a sequential model that stacks layers to create a convolutional neural network (CNN).
 model = tf.keras.models.Sequential([
     # First convolutional layer with ReLU activation
