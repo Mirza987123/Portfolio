@@ -19,6 +19,7 @@ model = tf.keras.models.Sequential([
 # This layer connects every neuron in the previous layer to every neuron in this layer, allowing for complex decision making.
     tf.keras.layers.Dense(128, activation='relu'),
     # Output layer with softmax activation
+# This layer outputs the probabilities of each class, summing to 1, for multi-class classification.
     tf.keras.layers.Dense(10, activation='softmax')
 ])
 
