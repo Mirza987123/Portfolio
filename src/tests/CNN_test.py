@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 
 # Define the CNN model
+# This model consists of several layers including convolutional, pooling, flattening, and dense layers.
 model = tf.keras.models.Sequential([
     # First convolutional layer with ReLU activation
     tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
