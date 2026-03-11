@@ -30,6 +30,7 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 
 # Train the model
 # Fitting the model on training data for 5 epochs.
+# The model will learn from the training data for 5 complete passes through the dataset.
 model.fit(x_train, y_train, epochs=5)
 
 # Evaluate the model
