@@ -13,6 +13,7 @@ model = tf.keras.models.Sequential([
 # This layer reduces the spatial dimensions of the output from the previous layer by taking the maximum value over a 2x2 window.
     tf.keras.layers.MaxPooling2D(pool_size=(2, 2)),
     # Flatten the output
+# This layer converts the 2D matrix output from the previous layer into a 1D vector to feed into the dense layer.
     tf.keras.layers.Flatten(),
     # Fully connected layer
     tf.keras.layers.Dense(128, activation='relu'),
