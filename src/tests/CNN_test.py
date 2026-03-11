@@ -36,7 +36,9 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128, activation='relu'),
     # Output layer with softmax activation
 # This layer outputs the probabilities of each class, summing to 1, for multi-class classification.
+# This layer outputs the probabilities of each class, summing to 1, for multi-class classification.
 # Output layer with softmax activation
+# This layer outputs the probabilities of each class, summing to 1, for multi-class classification.
     tf.keras.layers.Dense(10, activation='softmax')
 ])
 
