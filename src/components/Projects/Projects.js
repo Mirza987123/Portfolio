@@ -70,7 +70,7 @@ Here are a few projects I've worked on recently, highlighting my expertise in AI
               imgPath={suicide}
               isBlog={false}
               title="Ai For Social Good"
-              description="Using advanced Natural Language Processing techniques for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+Utilizing advanced Natural Language Processing techniques to detect suicide-related posts and user ideation in cyberspace, contributing to suicide prevention efforts.
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
