@@ -59,9 +59,9 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 model.fit(x_train, y_train, epochs=5)
 
 # Evaluate the model
-# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data.
-# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data.
+# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data. # Evaluating the model's performance.
+# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data. # Evaluating the model's performance.
 # Evaluate the model
-# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data.
+# Assessing the model's performance on the test dataset. This step evaluates how well the model generalizes to unseen data. # Evaluating the model's performance.
 # This step evaluates how well the model generalizes to unseen data.
 model.evaluate(x_test, y_test)
