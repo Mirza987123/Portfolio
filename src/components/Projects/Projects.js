@@ -59,7 +59,7 @@ Here are a few projects I've worked on recently, showcasing my expertise in AI t
               imgPath={leaf}
               isBlog={false}
               title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants, showcasing the power of AI in agricultural technology, demonstrating the effectiveness of AI in real-world applications., showcasing the power of AI in agricultural technology, demonstrating the effectiveness of AI in real-world applications. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model, demonstrating the effectiveness of AI in real-world applications."
+The model successfully detects diseased and healthy leaves of 14 unique plants, demonstrating the effectiveness of AI in agricultural technology.
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
