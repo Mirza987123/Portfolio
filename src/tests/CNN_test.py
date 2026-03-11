@@ -10,6 +10,7 @@ model = tf.keras.models.Sequential([
 # This layer applies 32 filters of size 3x3 to the input image, using ReLU as the activation function.
     tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
     # Max pooling layer
+# This layer reduces the spatial dimensions of the output from the previous layer by taking the maximum value over a 2x2 window.
     tf.keras.layers.MaxPooling2D(pool_size=(2, 2)),
     # Flatten the output
     tf.keras.layers.Flatten(),
