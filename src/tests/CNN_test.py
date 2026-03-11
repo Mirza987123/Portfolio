@@ -31,6 +31,7 @@ model = tf.keras.models.Sequential([
 
 # Compile the model
 # Using Adam optimizer and sparse categorical crossentropy loss for multi-class classification. Adam is an adaptive learning rate optimization algorithm.
+# Compile the model
 # Adam optimizer is an adaptive learning rate optimization algorithm that is popular for training deep learning models.
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
