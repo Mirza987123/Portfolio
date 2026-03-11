@@ -51,10 +51,10 @@ model = tf.keras.models.Sequential([
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # Train the model
-# Fitting the model on training data for 5 epochs. This allows the model to learn from the training data. # Training the model.
+# Fits the model on training data for 5 epochs, allowing it to learn from the dataset.
 # Fitting the model on training data for 5 epochs. This allows the model to learn from the training data. # Training the model.
 # Train the model
-# Fitting the model on training data for 5 epochs. This allows the model to learn from the training data. # Training the model.
+# Fits the model on training data for 5 epochs, allowing it to learn from the dataset.
 # The model will learn from the training data for 5 complete passes through the dataset.
 model.fit(x_train, y_train, epochs=5)
 
