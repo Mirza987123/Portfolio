@@ -19,7 +19,7 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in cutting-edge AI technologies, including frameworks and tools such as TensorFlow, PyTorch, JavaScript, C++, Rust, Node.js, and Java., including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java, showcasing my dedication to innovative AI-driven solutions., including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java., demonstrating my commitment to innovative AI-driven solutions., showcasing my dedication to innovative AI-driven solutions.
+              I’m proficient in cutting-edge AI technologies, including frameworks and tools such as TensorFlow, PyTorch, JavaScript, C++, Rust, Node.js, and Java, showcasing my dedication to innovative AI-driven solutions., including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java, showcasing my dedication to innovative AI-driven solutions., including frameworks and tools such as JavaScript, C++, Rust, Node.js, and Java., demonstrating my commitment to innovative AI-driven solutions., showcasing my dedication to innovative AI-driven solutions.
               <i>
                 <b className="purple">
                   {" "}
