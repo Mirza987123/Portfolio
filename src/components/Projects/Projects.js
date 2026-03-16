@@ -70,7 +70,7 @@ The model successfully detects diseased and healthy leaves of 14 unique plants, 
               imgPath={suicide}
               isBlog={false}
               title="Ai For Social Good"
-Leveraging cutting-edge AI and Natural Language Processing techniques to proactively detect and address suicide-related posts and ideation in cyberspace.
+Leveraging cutting-edge AI and Natural Language Processing techniques to proactively detect and address suicide-related posts and ideation in cyberspace, showcasing the potential of AI for social good.
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
