@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends, built with React.js, Material-UI, and Firebase. This project showcases my skills in real-time messaging and user interaction, emphasizing my expertise in AI-driven applications. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
