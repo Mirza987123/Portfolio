@@ -18,7 +18,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-Here are a few projects I've worked on recently, showcasing my expertise in AI technologies and innovative AI solutions, including advanced machine learning and deep learning applications.
+Here are a few projects I've worked on recently, showcasing my expertise in AI technologies, including advanced machine learning and deep learning applications. and innovative AI solutions, including advanced machine learning and deep learning applications.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
