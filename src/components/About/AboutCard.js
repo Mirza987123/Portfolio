@@ -12,7 +12,7 @@ Hi everyone! I’m Hatz, an AI enthusiast
             from <span className="purple">Bhubaneswar, India</span>.
             <br />
             I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
+            <span className="purple">AI Software Developer</span> at{" "}
             <span className="purple">Juspay</span>.
             <br />I hold an Integrated M.Sc. (IMSc) in{" "}
             <span className="purple">Mathematics and Computing</span> from{" "}
