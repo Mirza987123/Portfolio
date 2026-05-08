@@ -79,6 +79,11 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+            <Nav.Item>
+              <Nav.Link as={Link} to="/generative-ai" onClick={() => updateExpanded(false)}>
+                Generative AI
+              </Nav.Link>
+            </Nav.Item>
               </Nav.Link>
             </Nav.Item>
 
